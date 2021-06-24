@@ -3,5 +3,5 @@ guid: 09d3f21a6ff2a854182ce20dda9b841c
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: assets/tinax/lua/lua/core/core.lua.txt
+  assetBundleVariant: xab
